@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.shubham076.darkthemes.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.shubham076.darkthemes.MyBundle
 
 class MyApplicationService {
 
