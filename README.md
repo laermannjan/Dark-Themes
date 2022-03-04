@@ -11,32 +11,58 @@ Themes included in this plugin:
 
 - *Aura*
 ![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/Aura.png)
--![Blue Ocean
-- ![Blue Dolphin
-- ![City Pop
-- ![Galaxy
-- ![Hack The Box
-- ![Giraffe
-- ![Shape
-- ![Ayu Mirage
-- ![Field Lights
-- ![In Bed By 7
-- ![Rouge
-- ![Synthwave Refined
-- ![Winter is Coming
-- ![Shades Of Purple
-- ![Cobalt 2
-- ![Noctis
-- ![Noctis Sereno
-- ![Noctis Uva
-- ![Noctis Viola
-- ![Mayukai Mono
-- ![Mayukai Mirage
-- ![Mayukai Reversal
-- ![Mayukai Alucard
-- ![Universe
-- ![Universe Purple
+- *Blue Whale*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/BlueWhale.png)
+- *Blue Dolphin*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/BlueDolphin.png)
+- *City Pop*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/CityPop.png)
+- *Galaxy*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/Galaxy.png)
+- *Hack The Box*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/HackTheBox.png)
+- *Giraffe*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/Giraffe.png)
+- *Shape*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/Shape.png)
+- *Ayu Mirage*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/AyuMirage.png)
+- *Field Lights*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/FieldLights.png)
+- *In Bed By 7*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/InBedBy7.png)
+- *Rouge*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/Rouge.png)
+- *Synthwave Refined*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/SynthwaveRefined.png)
+- *Winter is Coming*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/WinterIsComing.png)
+- *Shades Of Purple*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/ShadesOfPurple.png)
+- *Cobalt 2*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/Cobalt2.png)
+- *Noctis*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/Noctis.png)
+- *Noctis Sereno*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/NoctisSereno.png)
+- *Noctis Uva*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/NoctisUva.png)
+- *Noctis Viola*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/NoctisViola.png)
+- *Mayukai Mono*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/MayukaiMono.png)
+- *Mayukai Mirage*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/MayukaiMirage.png)
+- *Mayukai Reversal*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/MayukaiReversal.png)
+- *Mayukai Alucard*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/MayukaiAlucard.png)
+- *Universe*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/Universe.png)
+- *Universe Purple*
+![]('https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/UniversePurple.png)
 
+### Improvements are always appreciated!
 <!-- Plugin description end -->
 
 ## Installation
