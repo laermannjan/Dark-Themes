@@ -8,32 +8,33 @@
 <!-- Plugin description -->
 This plugins contains personal favorites and the famous vscode themes.
 Themes included in this plugin:
-- Aura
-- Blue Ocean
-- Blue Dolphin
-- City Pop
-- Galaxy
-- Hack The Box
-- Giraffe
-- Shape
-- Ayu Mirage
-- Field Lights
-- In Bed By 7
-- Rouge
-- Synthwave Refined
-- Winter is Coming
-- Shades Of Purple
-- Cobalt 2
-- Noctis
-- Noctis Sereno
-- Noctis Uva
-- Noctis Viola
-- Mayukai Mono
-- Mayukai Mirage
-- Mayukai Reversal
-- Mayukai Alucard
-- Universe
-- Universe Purple
+- ![Aura](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/Aura.png)
+- ![Blue Ocean
+- ![Blue Dolphin
+- ![City Pop
+- ![Galaxy
+- ![Hack The Box
+- ![Giraffe
+- ![Shape
+- ![Ayu Mirage
+- ![Field Lights
+- ![In Bed By 7
+- ![Rouge
+- ![Synthwave Refined
+- ![Winter is Coming
+- ![Shades Of Purple
+- ![Cobalt 2
+- ![Noctis
+- ![Noctis Sereno
+- ![Noctis Uva
+- ![Noctis Viola
+- ![Mayukai Mono
+- ![Mayukai Mirage
+- ![Mayukai Reversal
+- ![Mayukai Alucard
+- ![Universe
+- ![Universe Purple
+
 <!-- Plugin description end -->
 
 ## Installation
