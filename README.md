@@ -8,8 +8,10 @@
 <!-- Plugin description -->
 This plugins contains personal favorites and the famous vscode themes.
 Themes included in this plugin:
-- ![Aura](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/Aura.png)
-- ![Blue Ocean
+
+- *Aura*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/Aura.png)
+-![Blue Ocean
 - ![Blue Dolphin
 - ![City Pop
 - ![Galaxy
