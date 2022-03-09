@@ -1,15 +1,28 @@
 <scheme name="Mayukai Reversal" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-03-02T22:12:01</property>
+    <property name="created">2022-03-05T22:21:29</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-02T22:12:07</property>
+    <property name="modified">2022-03-05T22:21:37</property>
     <property name="originalScheme">Mayukai Reversal</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="cbcebc" />
     <option name="CARET_ROW_COLOR" value="141925" />
     <option name="CONSOLE_BACKGROUND_KEY" value="141824" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="GUTTER_BACKGROUND" value="141824" />
     <option name="LINE_NUMBERS_COLOR" value="cbcebc" />
     <option name="SELECTION_BACKGROUND" value="3d424d" />
@@ -439,7 +452,7 @@
     <option name="DEFAULT_BRACKETS" baseAttributes="" />
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="ff8f40" />
+        <option name="FOREGROUND" value="bae67e" />
       </value>
     </option>
     <option name="DEFAULT_COMMA" baseAttributes="" />
@@ -507,7 +520,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="f07178" />
+        <option name="FOREGROUND" value="9dd2bb" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -943,11 +956,6 @@
         <option name="FOREGROUND" value="ff3333" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="f07178" />
-      </value>
-    </option>
     <option name="JAVA_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="5c6773" />
@@ -1026,9 +1034,7 @@
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="807f80" />
-      </value>
+      <value />
     </option>
     <option name="OC.BADCHARACTER">
       <value>
@@ -1706,12 +1712,6 @@
       </value>
     </option>
     <option name="SPY-JS.VALUE_HINT" baseAttributes="" />
-    <option name="STATIC_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="fda5ff" />
-        <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
     <option name="TAG_ATTR_KEY">
       <value>
         <option name="FOREGROUND" value="bae67e" />
