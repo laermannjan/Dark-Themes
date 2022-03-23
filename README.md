@@ -63,6 +63,8 @@ Themes included in this plugin:
 ![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/UniversePurple.png)
 - *Green Haze*
 ![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/GreenHaze.png)
+- *Elements*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/Elements.png)
 
 ### Improvements are always appreciated!
 <!-- Plugin description end -->
