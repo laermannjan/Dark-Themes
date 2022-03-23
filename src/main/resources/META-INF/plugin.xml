@@ -36,5 +36,6 @@
         <themeProvider id="com.github.shubham076.noctisVoila" path="/themes/noctisVoila.theme.json"/>
         <themeProvider id="com.github.shubham076.noctisUva" path="/themes/noctisUva.theme.json"/>
         <themeProvider id="com.github.shubham076.elements" path="/themes/elements.theme.json"/>
+        <themeProvider id="com.github.shubham076.greenHaze" path="/themes/greenHaze.theme.json"/>
     </extensions>
 </idea-plugin>
