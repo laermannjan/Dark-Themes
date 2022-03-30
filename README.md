@@ -37,6 +37,8 @@ Themes included in this plugin:
 ![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/SynthwaveRefined.png)
 - *Winter is Coming*
 ![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/WinterIsComing.png)
+- *Synthwave Blue*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/SynthwaveBlue.png)
 - *Shades Of Purple*
 ![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/ShadesOfPurple.png)
 - *Cobalt 2*
@@ -49,6 +51,10 @@ Themes included in this plugin:
 ![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/NoctisUva.png)
 - *Noctis Viola*
 ![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/NoctisViola.png)
+- *Noctis Azureus*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/NoctisAzureus.png)
+- *Noctis Bordo*
+![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/NoctisBordo.png)
 - *Mayukai Mono*
 ![](https://github.com/Shubham076/Dark-Themes/blob/main/Screenshots/MayukaiMono.png)
 - *Mayukai Mirage*

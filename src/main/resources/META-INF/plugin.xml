@@ -16,6 +16,7 @@
         <themeProvider id="com.github.shubham076.cobalt2" path="/themes/cobalt2.theme.json"/>
         <themeProvider id="com.github.shubham076.cityPop" path="/themes/cityPop.theme.json"/>
         <themeProvider id="com.github.shubham076.synthwaveRefined" path="/themes/synthwaveRefined.theme.json"/>
+        <themeProvider id="com.github.shubham076.synthwaveBlue" path="/themes/synthwaveBlue.theme.json"/>
         <themeProvider id="com.github.shubham076.inBedBy7" path="/themes/inBedBy7.theme.json"/>
         <themeProvider id="com.github.shubham076.hackTheBox" path="/themes/hackTheBox.theme.json"/>
         <themeProvider id="com.github.shubham076.giraffe" path="/themes/giraffe.theme.json"/>
@@ -35,7 +36,8 @@
         <themeProvider id="com.github.shubham076.noctisSereno" path="/themes/noctisSereno.theme.json"/>
         <themeProvider id="com.github.shubham076.noctisVoila" path="/themes/noctisVoila.theme.json"/>
         <themeProvider id="com.github.shubham076.noctisUva" path="/themes/noctisUva.theme.json"/>
+        <themeProvider id="com.github.shubham076.noctisBordo" path="/themes/noctisBordo.theme.json"/>
+        <themeProvider id="com.github.shubham076.noctisAzureus" path="/themes/noctisAzureus.theme.json"/>
         <themeProvider id="com.github.shubham076.elements" path="/themes/elements.theme.json"/>
-        <themeProvider id="com.github.shubham076.greenHaze" path="/themes/greenHaze.theme.json"/>
     </extensions>
 </idea-plugin>
